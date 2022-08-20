@@ -8,6 +8,7 @@ Verschiedene Sensoren mit Tasmota
 | TSL2591 | Lichtsensor         |    X    |
 | BME280  | Environment Sensor  |    X    |
 | BME680  | CO2                 |    X    |
+| HDC1080 | T/RH                |    X    |
 
 # Tasmota precompiled
 
