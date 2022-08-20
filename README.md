@@ -2,12 +2,17 @@
 Verschiedene Sensoren mit Tasmota
 
 # Sensoren die UNterstütz werden
-
-SCD40   CO2 sensor
-TSL2591 Lichtsensor
-BME280  Environment Sensor
-BME680  CO2
+| Name    | Beschreibung        | Getestet|
+|---------|---------------------|---------|
+| SCD40   | CO2 sensor          |    X    |
+| TSL2591 | Lichtsensor         |    X    |
+| BME280  | Environment Sensor  |    X    |
+| BME680  | CO2                 |    X    |
 
 # Tasmota precompiled
 
 tasmota-sensors.bin
+
+
+# Verdrahtung
+
