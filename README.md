@@ -12,8 +12,13 @@ Verschiedene Sensoren mit Tasmota
 
 # Tasmota precompiled
 
+SmartHome_Sensors/firmware/
+
 tasmota-sensors.bin
 
+settings in Tasmota
+
+![](pict/Tasmota_GPIO_Settings.png)
 
 # Verdrahtung
 
