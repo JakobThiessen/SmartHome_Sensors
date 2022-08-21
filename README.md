@@ -1,7 +1,7 @@
 # SmartHome_Sensors
 Verschiedene Sensoren mit Tasmota
 
-# Sensoren die UNterstütz werden
+# Sensoren die Unterstütz werden
 | Name    | Beschreibung        | Getestet|
 |---------|---------------------|---------|
 | SCD40   | CO2 sensor          |    X    |
