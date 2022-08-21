@@ -12,11 +12,9 @@ Verschiedene Sensoren mit Tasmota
 
 # Tasmota precompiled
 
-SmartHome_Sensors/firmware/
+[SmartHome_Sensors/firmware/](SmartHome_Sensors/firmware/): tasmota-sensors.bin
 
-tasmota-sensors.bin
-
-settings in Tasmota
+settings in Tasmota (ESP8266)
 
 ![](pict/Tasmota_GPIO_Settings.png)
 
