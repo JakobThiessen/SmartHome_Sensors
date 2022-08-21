@@ -45,3 +45,7 @@ https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
 ![](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2018/08/esp32-pinout-chip-ESP-WROOM-32.png?quality=100&strip=all&ssl=1)
 
 ![](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2018/08/ESP32-DOIT-DEVKIT-V1-Board-Pinout-36-GPIOs-updated.jpg?quality=100&strip=all&ssl=1)
+
+# Tasmota: Main Menu
+
+![](pict/SCD40_tasmota_main_page.png)
