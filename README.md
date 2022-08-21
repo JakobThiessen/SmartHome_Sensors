@@ -22,7 +22,7 @@ settings in Tasmota (ESP8266)
 
 
 
-## Pinout of ESP 8266 WEMOS-D1
+## Pinout of ESP 8266 and WEMOS-D1
 
 | Label | IO    | Beschreibung      |
 |-------|-------|-------------------|
