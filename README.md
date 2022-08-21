@@ -48,4 +48,4 @@ https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
 
 # Tasmota: Main Menu
 
-![](pict/SCD40_tasmota_main_page.png)
+![Main Menu - SCD 40](pict/SCD40_tasmota_main_page.png "Main Menu - SCD 40")
