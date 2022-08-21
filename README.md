@@ -2,13 +2,13 @@
 Verschiedene Sensoren mit Tasmota
 
 # Sensoren die Unterstütz werden
-| Name    | Beschreibung        | Getestet|
-|---------|---------------------|---------|
-| SCD40   | CO2 sensor          |    X    |
-| TSL2591 | Lichtsensor         |    X    |
-| BME280  | Environment Sensor  |    X    |
-| BME680  | CO2                 |    X    |
-| HDC1080 | T/RH                |    X    |
+| Name    | Beschreibung        | Getestet| LINK                                                                      |
+|---------|---------------------|---------|---------------------------------------------------------------------------|
+| SCD40   | CO2 sensor          |    X    | [https://sensirion.com](https://sensirion.com/de/produkte/katalog/SCD40/) |
+| TSL2591 | Lichtsensor         |    X    | [ams-osram.com](https://ams-osram.com/products/sensors/ambient-light-color-spectral-sensors/ams-tsl25911-ambient-light-sensor) |
+| BME280  | Environment Sensor  |    X    | [bosch-sensortec.com](https://www.bosch-sensortec.com) |
+| BME680  | CO2                 |    X    | [bosch-sensortec.com](https://www.bosch-sensortec.com) |
+| HDC1080 | T/RH                |    X    | [ti.com](https://www.ti.com/product/HDC1080) |
 
 # Tasmota precompiled
 
