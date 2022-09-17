@@ -48,10 +48,6 @@ https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
 
 # Tasmota: Main Menu
 
-<img src="pict/SCD40_tasmota_main_page.png" width="300">
+<img src="pict/SCD40_tasmota_main_page.png" width="300">  <img src="pict/TSL2591_tasmota_main_page.png" width="300">
 
-![Main Menu - TSL2591](pict/TSL2591_tasmota_main_page.png "Main Menu - TSL2591")
-
-![Main Menu - BME280](pict/BME280_tasmota_main_page.png "Main Menu - BME280")
-
-![Main Menu - BME680](pict/BME680_tasmota_main_page.png "Main Menu - BME680")
+<img src="pict/BME280_tasmota_main_page.png" width="300"> <img src="pict/BME680_tasmota_main_page.png" width="300">
